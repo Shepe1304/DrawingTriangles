@@ -12,4 +12,5 @@ When you start the project, you can see a grid, "Show Information" button on the
 
 **NOTES**
 You can try resizing the project form and find that the grid will still be placed at the middle of your form. Try it out!
-      
+
+Bump!
