@@ -1,7 +1,7 @@
 # DrawingTriangles
 This C# Visual Studio project lets you draw triangles on a grid! The coordinates of the vertices are guaranteed to be changed into whole numbers, regardless of where you originally place them. You can also zoom the grid in and out, see the information of the triangles (Name; Coordinates; Area; Parameter), and delete the newest triangle. 
 
-**Finish Date** Nov 26, 2022
+**Finished** in 2022
 
 **HOW TO USE**
 When you start the project, you can see a grid, "Show Information" button on the top left corner, as well as 3 buttons on the right edge that write "Delete Newest", "Zoom in", and "Zoom out" respectively.
